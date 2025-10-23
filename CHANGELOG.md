@@ -21,6 +21,7 @@ See also [0.6](#0.6) release notes. 0.7 builds against wlroots 0.18.x.
 ### Fixed
 
 * Crash when re-mapping unmapped clients.
+* Crash when a client is created while all outputs are disabled.
 
 
 ### Contributors
